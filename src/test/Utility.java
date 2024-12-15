@@ -2,7 +2,7 @@ package test;
 
 public class Utility {
 
-	protected void print() {
+	public void print() {
 
 		System.out.println("i am in Test - Utility");
 		
